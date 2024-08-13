@@ -5,14 +5,14 @@ Purpose: Use the mapping program to obtain a map (GlobalMap.pcd)
 ![lio-sam-6axis](./images/lio-sam.jpg)
 
 ### step-1 Calibrate the sensor (the initial parameters have been set, you can skip it. If the mapping effect is not good, please recalibrate it)
-- [标定IMU内参](../%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A0%87%E5%AE%9A/IMU%E6%A0%87%E5%AE%9A.md)
-- [标定LiDAR与IMU外参](../%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A0%87%E5%AE%9A/LiDAR-IMU%E6%A0%87%E5%AE%9A.md)
+- [IMU Calibration](../sensor-calibration/IMU-calibration.md)
+- [LiDAR-IMU-Calibration](../sensor-calibration/LiDAR-IMU-calibration.md)
 
 
 ### step-2  Record ros2 bag
  **注意** Check the topic output before recording. During the recording process, the vehicle should be driven as smoothly and slowly as possible. It is recommended to loop your map scene.
 
- - Start autoware first:./autoware.sh [排查问题](../Autoware上手/启动autoware.md)
+ - Start autoware first:./autoware.sh [Note](../Autoware上手/启动autoware.md)
 ```shell
 Method 1 ：cd  ~/pixkit/pix/ros2_bag
                   ros2 bag record $(cat rosbag.txt)
@@ -61,7 +61,7 @@ def generate_launch_description():
 
 
 ### step-4: Run the mapping program
- **注意** Must end autoware
+ **Note** Must end autoware
 
 Run the map launch file under mapping_ws
 ```shell
