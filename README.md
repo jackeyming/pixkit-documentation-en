@@ -16,4 +16,4 @@
 
 # Pixkit Documentation
 
-- [Please view our documents]（https://jackeyming.github.io/pixkit-documentation-en/）
+- [Please view our documents](https://jackeyming.github.io/pixkit-documentation-en/)
