@@ -10,9 +10,9 @@ Purpose: Use the mapping program to obtain a map (GlobalMap.pcd)
 
 
 ### step-2  Record ros2 bag
- **注意** Check the topic output before recording. During the recording process, the vehicle should be driven as smoothly and slowly as possible. It is recommended to loop your map scene.
+ **NOTE** Check the topic output before recording. During the recording process, the vehicle should be driven as smoothly and slowly as possible. It is recommended to loop your map scene.
 
- - Start autoware first:./autoware.sh [Note](../Autoware上手/启动autoware.md)
+ - Start autoware first:./autoware.sh [Note](../hands-on-Autoware/start_autoware.md)
 ```shell
 Method 1 ：cd  ~/pixkit/pix/ros2_bag
                   ros2 bag record $(cat rosbag.txt)
@@ -139,7 +139,7 @@ colcon build --symlink-install --cmake-args -DCMAKE_BUILD_TYPE=Release
 |lidarMinRange|Minimum point cloud distance, default is 1.5|
 |lidarMaxRange|Maximum point cloud distance, default is 1000.0|
 
-- IMU internal parameters, refer to [IMU标定](../%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A0%87%E5%AE%9A/IMU%E6%A0%87%E5%AE%9A.md)to obtain IMU internal parameters
+- IMU internal parameters, refer to [IMU Calibration](../sensor-calibration/IMU-calibration.md)to obtain IMU internal parameters
 
 ![IMU intrinsics](./images/imu-intrinsics.jpg)
 
@@ -152,7 +152,7 @@ colcon build --symlink-install --cmake-args -DCMAKE_BUILD_TYPE=Release
 |imuGravity|	Local gravity acceleration (m/s^2)|
 |imuRPYWeight|Angle weight, default 0.01|
 
-- IMU external parameters，refer to[LiDAR与IMU外参标定](../%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A0%87%E5%AE%9A/LiDAR-IMU%E6%A0%87%E5%AE%9A.md)
+- IMU external parameters，refer to[LiDAR-IMU-Calibration](../sensor-calibration/LiDAR-IMU-calibration.md)
 
 > IMU extrinsic parameters can be measured by [LiDAR and IMU extrinsic calibration] or manually measured with a tape measure (the coordinate system is the right-hand rule)
 > When measuring manually：

@@ -1888,13 +1888,13 @@
 <p><img alt="lio-sam-6axis" src="../images/lio-sam.jpg"></p>
 <h3 id="step-1-calibrate-the-sensor-the-initial-parameters-have-been-set-you-can-skip-it-if-the-mapping-effect-is-not-good-please-recalibrate-it">step-1 Calibrate the sensor (the initial parameters have been set, you can skip it. If the mapping effect is not good, please recalibrate it)</h3>
 <ul>
-<li><a href="../%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A0%87%E5%AE%9A/IMU%E6%A0%87%E5%AE%9A.md">标定IMU内参</a></li>
-<li><a href="../%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A0%87%E5%AE%9A/LiDAR-IMU%E6%A0%87%E5%AE%9A.md">标定LiDAR与IMU外参</a></li>
+<li><a href="../../sensor-calibration/IMU-calibration/">IMU Calibration</a></li>
+<li><a href="../../sensor-calibration/LiDAR-IMU-calibration/">LiDAR-IMU-Calibration</a></li>
 </ul>
 <h3 id="step-2-record-ros2-bag">step-2  Record ros2 bag</h3>
 <p><strong>注意</strong> Check the topic output before recording. During the recording process, the vehicle should be driven as smoothly and slowly as possible. It is recommended to loop your map scene.</p>
 <ul>
-<li>Start autoware first:./autoware.sh <a href="../Autoware%E4%B8%8A%E6%89%8B/%E5%90%AF%E5%8A%A8autoware.md">排查问题</a></li>
+<li>Start autoware first:./autoware.sh <a href="../Autoware%E4%B8%8A%E6%89%8B/%E5%90%AF%E5%8A%A8autoware.md">Note</a></li>
 </ul>
 <pre><code class="language-shell">Method 1 ：cd  ~/pixkit/pix/ros2_bag
                   ros2 bag record $(cat rosbag.txt)
@@ -1965,7 +1965,7 @@ def generate_launch_description():
 <img alt="gps-params" src="../images/gps-params.jpg"></li>
 </ul>
 <h3 id="step-4-run-the-mapping-program">step-4: Run the mapping program</h3>
-<p><strong>注意</strong> Must end autoware</p>
+<p><strong>Note</strong> Must end autoware</p>
 <p>Run the map launch file under mapping_ws</p>
 <pre><code class="language-shell">source install/setup.bash
 ros2 launch lio_sam run.launch.py
