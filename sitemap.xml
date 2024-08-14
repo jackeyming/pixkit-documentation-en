@@ -2,192 +2,192 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/Hardware-Check/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/Hardware-Check/CAMERA/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/Hardware-Check/GNSS%E2%80%94CHC/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/Hardware-Check/GNSS%E2%80%94FP/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/Hardware-Check/IPC/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/Hardware-Check/LiDAR/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/Hardware-Check/Ultra_sonic_radar/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/hands-on-Autoware/LiDAR-based-perception/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/hands-on-Autoware/lane-driving/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/hands-on-Autoware/lanelet2-based-routing/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/hands-on-Autoware/multi-sensor-localization/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/hands-on-Autoware/parking/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/hands-on-Autoware/start_autoware/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/hands-on-Autoware/traffic-light-detection/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/hands-on-Autoware/trajectory-follower/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/hands-on-Autoware/vehicle-interface/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/mapping/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/mapping/Building_map/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/mapping/lanelet2-map/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/pix-chassis-user-manual/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/pix-chassis-user-manual/FAQ/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/pix-chassis-user-manual/after-sale-service-and-technical-support/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/pix-chassis-user-manual/maintenance-and-precautions/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/pix-chassis-user-manual/product-introduction/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/pix-chassis-user-manual/specs/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/pix-chassis-user-manual/usage-and-development/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/pix-chassis-user-manual/vehicle-safety-mechanism/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/sensor-calibration/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/sensor-calibration/IMU-calibration/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/sensor-calibration/LiDAR-IMU-calibration/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/sensor-calibration/LiDAR-LiDAR-calibration/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/sensor-calibration/LiDAR-camera-calibration/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/sensor-calibration/calibration_tool_installation/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/sensor-calibration/camera-intrisics-calibration/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/support/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/support/Flash%20%26%20Backup/backup-OS-image/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware-documentation/support/Flash%20%26%20Backup/flash-OS-image/</loc>
-         <lastmod>2024-08-13</lastmod>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
