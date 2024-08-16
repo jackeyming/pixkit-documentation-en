@@ -1892,9 +1892,9 @@
 <li><a href="../../sensor-calibration/LiDAR-IMU-calibration/">LiDAR-IMU-Calibration</a></li>
 </ul>
 <h3 id="step-2-record-ros2-bag">step-2  Record ros2 bag</h3>
-<p><strong>注意</strong> Check the topic output before recording. During the recording process, the vehicle should be driven as smoothly and slowly as possible. It is recommended to loop your map scene.</p>
+<p><strong>NOTE</strong> Check the topic output before recording. During the recording process, the vehicle should be driven as smoothly and slowly as possible. It is recommended to loop your map scene.</p>
 <ul>
-<li>Start autoware first:./autoware.sh <a href="../Autoware%E4%B8%8A%E6%89%8B/%E5%90%AF%E5%8A%A8autoware.md">Note</a></li>
+<li>Start autoware first:./autoware.sh <a href="../../hands-on-Autoware/start_autoware/">Note</a></li>
 </ul>
 <pre><code class="language-shell">Method 1 ：cd  ~/pixkit/pix/ros2_bag
                   ros2 bag record $(cat rosbag.txt)
@@ -2065,7 +2065,7 @@ colcon build --symlink-install --cmake-args -DCMAKE_BUILD_TYPE=Release
 </tbody>
 </table>
 <ul>
-<li>IMU internal parameters, refer to <a href="../%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A0%87%E5%AE%9A/IMU%E6%A0%87%E5%AE%9A.md">IMU标定</a>to obtain IMU internal parameters</li>
+<li>IMU internal parameters, refer to <a href="../../sensor-calibration/IMU-calibration/">IMU Calibration</a>to obtain IMU internal parameters</li>
 </ul>
 <p><img alt="IMU intrinsics" src="../images/imu-intrinsics.jpg"></p>
 <table>
@@ -2103,7 +2103,7 @@ colcon build --symlink-install --cmake-args -DCMAKE_BUILD_TYPE=Release
 </tbody>
 </table>
 <ul>
-<li>IMU external parameters，refer to<a href="../%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A0%87%E5%AE%9A/LiDAR-IMU%E6%A0%87%E5%AE%9A.md">LiDAR与IMU外参标定</a></li>
+<li>IMU external parameters，refer to<a href="../../sensor-calibration/LiDAR-IMU-calibration/">LiDAR-IMU-Calibration</a></li>
 </ul>
 <blockquote>
 <p>IMU extrinsic parameters can be measured by [LiDAR and IMU extrinsic calibration] or manually measured with a tape measure (the coordinate system is the right-hand rule)

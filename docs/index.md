@@ -42,7 +42,7 @@
 ### Tool Chains for Autonomous Driving Development
 #### Sensor Calibration
 
-- [camera Intrisics calibration](./%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A0%87%E5%AE%9A/camera%E5%86%85%E5%8F%82%E6%A0%87%E5%AE%9A.md)
+- [camera Intrisics calibration](./sensor-calibration/camera-intrisics-calibration.md)
 ````yaml
 image_width: 1920
 image_height: 1080
@@ -71,7 +71,7 @@ projection_matrix:
            0.     , 895.51398, 508.08632,   0.     ,
            0.     ,   0.     ,   1.     ,   0.     ]
 ````
-- [LiDAR-camera calibration](./%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A0%87%E5%AE%9A/LiDAR-camera%E6%A0%87%E5%AE%9A.md)
+- [LiDAR-camera calibration](./sensor-calibration/LiDAR-camera-calibration.md)
 ```yaml
 rs162camera:
   x: 0.5789871
@@ -81,8 +81,8 @@ rs162camera:
   pitch: 0.00713767
   yaw: -1.55820481
 ```
-![camera-lidar-calibration](./%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A0%87%E5%AE%9A/image/lidar2camera/cali_result.jpg)
-- [IMU calibration](./%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A0%87%E5%AE%9A/IMU%E6%A0%87%E5%AE%9A.md)
+![camera-lidar-calibration](./sensor-calibration/image/lidar2camera/cali_result.jpg)
+- [IMU calibration](./sensor-calibration/IMU-calibration.md)
 ```yaml
 Gyr:
     unit: " rad/s"
@@ -115,17 +115,17 @@ Acc:
 ```
 
 #### HD Map
-- [Pointcloud Map](./%E5%9C%B0%E5%9B%BE/%E7%82%B9%E4%BA%91%E5%9C%B0%E5%9B%BE.md)
+- [Pointcloud Map](./mapping/Building_map.md)
 ![pointcloud-map](./images/pointcloud-map.jpg)
-- [Lanelet2 Map](./%E5%9C%B0%E5%9B%BE/lanelet2%E5%9C%B0%E5%9B%BE.md)
+- [Lanelet2 Map](./mapping/lanelet2-map.md)
 ![lanelet2-map](./images/lanelet2-map.jpg)
 
 ### Documentation For Autonomous Driving Development
-- [Hardware Check](./Hardware%20Check/index.md)
-- [Pix Chassis User Manual](./pix%E5%BA%95%E7%9B%98%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/index.md)
-- [Sensor Calibration](./%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A0%87%E5%AE%9A/camera%E5%86%85%E5%8F%82%E6%A0%87%E5%AE%9A.md)
-- [Mapping](./%E5%9C%B0%E5%9B%BE/index.md)
-- [Hands on Autoware](./Autoware%E4%B8%8A%E6%89%8B/%E5%90%AF%E5%8A%A8autoware.md)
+- [Hardware Check](./Hardware-Check/index.md)
+- [Pix Chassis User Manual](./pix-chassis-user-manual/index.md)
+- [Sensor Calibration](./sensor-calibration/index.md)
+- [Mapping](./mapping/index.md)
+- [Hands on Autoware](./hands-on-Autoware/start_autoware.md)
 
 ## Contack Us
 If you are interested in our products, please contack us.
